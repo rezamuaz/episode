@@ -1,94 +1,89 @@
 {
-  "detail": [
-    {
-      "episode": "1",
-      "title": "While You Were Sleeping ",
-      "date": "22 Maret 2022",
-      "views": "2.2 K",
-      "url": [
-        {
-          "id": "0",
-          "res": "360p",
-          "url": "https://atrlsfoefyeysaztewtn.supabase.co/storage/v1/object/sign/video/big%20bunny/Big%20Buck%20Bunny%20360p.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2aWRlby9iaWcgYnVubnkvQmlnIEJ1Y2sgQnVubnkgMzYwcC5tcDQiLCJpYXQiOjE2NTcwODAxNTMsImV4cCI6MTk3MjQ0MDE1M30.AWwaeMNKk-ZcEiNBNGn9Cd6vCfVQvGBn6An8Ro7oqKg&t=2022-07-06T04%3A02%3A31.535Z"
-        },
-        {
-          "id": "2",
-          "res": "480p",
-          "url": "https://atrlsfoefyeysaztewtn.supabase.co/storage/v1/object/sign/video/big%20bunny/Big%20Buck%20Bunny%20480p.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2aWRlby9iaWcgYnVubnkvQmlnIEJ1Y2sgQnVubnkgNDgwcC5tcDQiLCJpYXQiOjE2NTcwODAyMDksImV4cCI6MTk3MjQ0MDIwOX0.V3VDS6J2qPIAU8kPtcKh2T2DtUOsAtwuWrB0P1KMDwA&t=2022-07-06T04%3A03%3A26.837Z"
-        },
-        {
-          "id": "3",
-          "res": "720p",
-          "url": "https://atrlsfoefyeysaztewtn.supabase.co/storage/v1/object/sign/video/big%20bunny/Big%20Buck%20Bunny%20720p.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2aWRlby9iaWcgYnVubnkvQmlnIEJ1Y2sgQnVubnkgNzIwcC5tcDQiLCJpYXQiOjE2NTcwODEyOTEsImV4cCI6MTk3MjQ0MTI5MX0.4IqvxIklJbfiBuibpBVWD7Q7BmDb79VOYgZmV4LsxEQ&t=2022-07-06T04%3A21%3A29.199Z"
-        }
-      ],
-      "comments": [
-        {
-          "name": "Adeleye Andress",
-          "pic": "https://picsum.photos/300/30",
-          "message": "I love to code"
-        },
-        {
-          "name": "Biggi Man",
-          "pic": "https://picsum.photos/300/30",
-          "message": "Very cool"
-        },
-        {
-          "name": "Biggi Man",
-          "pic": "https://picsum.photos/300/30",
-          "message": "Very cool"
-        },
-        {
-          "name": "Biggi Man",
-          "pic": "https://picsum.photos/300/30",
-          "message": "Very cool"
-        }
-      ]
-    },
-    {
-      "episode": "2",
-      "title": "Test2 123 ",
-      "date": "22 Maret 2022",
-      "views": "2.2 K",
-      "url": [
-        {
-          "id": "0",
-          "res": "360p",
-          "url": "https://atrlsfoefyeysaztewtn.supabase.co/storage/v1/object/sign/video/big%20bunny/Big%20Buck%20Bunny%20360p.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2aWRlby9iaWcgYnVubnkvQmlnIEJ1Y2sgQnVubnkgMzYwcC5tcDQiLCJpYXQiOjE2NTcwODAxNTMsImV4cCI6MTk3MjQ0MDE1M30.AWwaeMNKk-ZcEiNBNGn9Cd6vCfVQvGBn6An8Ro7oqKg&t=2022-07-06T04%3A02%3A31.535Z"
-        },
-        {
-          "id": "2",
-          "res": "480p",
-          "url": "https://atrlsfoefyeysaztewtn.supabase.co/storage/v1/object/sign/video/big%20bunny/Big%20Buck%20Bunny%20480p.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2aWRlby9iaWcgYnVubnkvQmlnIEJ1Y2sgQnVubnkgNDgwcC5tcDQiLCJpYXQiOjE2NTcwODAyMDksImV4cCI6MTk3MjQ0MDIwOX0.V3VDS6J2qPIAU8kPtcKh2T2DtUOsAtwuWrB0P1KMDwA&t=2022-07-06T04%3A03%3A26.837Z"
-        },
-        {
-          "id": "3",
-          "res": "720p",
-          "url": "https://atrlsfoefyeysaztewtn.supabase.co/storage/v1/object/sign/video/big%20bunny/Big%20Buck%20Bunny%20720p.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2aWRlby9iaWcgYnVubnkvQmlnIEJ1Y2sgQnVubnkgNzIwcC5tcDQiLCJpYXQiOjE2NTcwODEyOTEsImV4cCI6MTk3MjQ0MTI5MX0.4IqvxIklJbfiBuibpBVWD7Q7BmDb79VOYgZmV4LsxEQ&t=2022-07-06T04%3A21%3A29.199Z"
-        }
-      ],
-      "comments": [
-        {
-          "name": "Adeleye Andress",
-          "pic": "https://picsum.photos/300/30",
-          "message": "I love to code"
-        },
-        {
-          "name": "Biggi Man",
-          "pic": "https://picsum.photos/300/30",
-          "message": "Very cool"
-        },
-        {
-          "name": "Biggi Man",
-          "pic": "https://picsum.photos/300/30",
-          "message": "Very cool"
-        },
-        {
-          "name": "Biggi Man",
-          "pic": "https://picsum.photos/300/30",
-          "message": "Very cool"
-        }
-      ]
-    }
-  ]
+	"detail": [{
+			"episode": "1",
+			"title": "While You Were Sleeping ",
+			"date": "22 Maret 2022",
+			"views": "2.2 K",
+			"url": [{
+					"id": "0",
+					"res": "360p",
+					"url": "https://atrlsfoefyeysaztewtn.supabase.co/storage/v1/object/sign/video/big%20bunny/Big%20Buck%20Bunny%20360p.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2aWRlby9iaWcgYnVubnkvQmlnIEJ1Y2sgQnVubnkgMzYwcC5tcDQiLCJpYXQiOjE2NTcwODAxNTMsImV4cCI6MTk3MjQ0MDE1M30.AWwaeMNKk-ZcEiNBNGn9Cd6vCfVQvGBn6An8Ro7oqKg&t=2022-07-06T04%3A02%3A31.535Z"
+				},
+				{
+					"id": "2",
+					"res": "480p",
+					"url": "https://atrlsfoefyeysaztewtn.supabase.co/storage/v1/object/sign/video/big%20bunny/Big%20Buck%20Bunny%20480p.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2aWRlby9iaWcgYnVubnkvQmlnIEJ1Y2sgQnVubnkgNDgwcC5tcDQiLCJpYXQiOjE2NTcwODAyMDksImV4cCI6MTk3MjQ0MDIwOX0.V3VDS6J2qPIAU8kPtcKh2T2DtUOsAtwuWrB0P1KMDwA&t=2022-07-06T04%3A03%3A26.837Z"
+				},
+				{
+					"id": "3",
+					"res": "720p",
+					"url": "https://atrlsfoefyeysaztewtn.supabase.co/storage/v1/object/sign/video/big%20bunny/Big%20Buck%20Bunny%20720p.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2aWRlby9iaWcgYnVubnkvQmlnIEJ1Y2sgQnVubnkgNzIwcC5tcDQiLCJpYXQiOjE2NTcwODEyOTEsImV4cCI6MTk3MjQ0MTI5MX0.4IqvxIklJbfiBuibpBVWD7Q7BmDb79VOYgZmV4LsxEQ&t=2022-07-06T04%3A21%3A29.199Z"
+				}
+			],
+			"comments": [{
+					"name": "Adeleye Andress",
+					"pic": "https://picsum.photos/300/30",
+					"message": "I love to code"
+				},
+				{
+					"name": "Biggi Man",
+					"pic": "https://picsum.photos/300/30",
+					"message": "Very cool"
+				},
+				{
+					"name": "Biggi Man",
+					"pic": "https://picsum.photos/300/30",
+					"message": "Very cool"
+				},
+				{
+					"name": "Biggi Man",
+					"pic": "https://picsum.photos/300/30",
+					"message": "Very cool"
+				}
+			]
+		},
+		{
+			"episode": "2",
+			"title": "Test2 123 ",
+			"date": "22 Maret 2022",
+			"views": "2.2 K",
+			"url": [{
+					"id": "0",
+					"res": "360p",
+					"url": "https://atrlsfoefyeysaztewtn.supabase.co/storage/v1/object/sign/video/big%20bunny/Big%20Buck%20Bunny%20360p.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2aWRlby9iaWcgYnVubnkvQmlnIEJ1Y2sgQnVubnkgMzYwcC5tcDQiLCJpYXQiOjE2NTcwODAxNTMsImV4cCI6MTk3MjQ0MDE1M30.AWwaeMNKk-ZcEiNBNGn9Cd6vCfVQvGBn6An8Ro7oqKg&t=2022-07-06T04%3A02%3A31.535Z"
+				},
+				{
+					"id": "2",
+					"res": "480p",
+					"url": "https://atrlsfoefyeysaztewtn.supabase.co/storage/v1/object/sign/video/big%20bunny/Big%20Buck%20Bunny%20480p.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2aWRlby9iaWcgYnVubnkvQmlnIEJ1Y2sgQnVubnkgNDgwcC5tcDQiLCJpYXQiOjE2NTcwODAyMDksImV4cCI6MTk3MjQ0MDIwOX0.V3VDS6J2qPIAU8kPtcKh2T2DtUOsAtwuWrB0P1KMDwA&t=2022-07-06T04%3A03%3A26.837Z"
+				},
+				{
+					"id": "3",
+					"res": "720p",
+					"url": "https://atrlsfoefyeysaztewtn.supabase.co/storage/v1/object/sign/video/big%20bunny/Big%20Buck%20Bunny%20720p.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2aWRlby9iaWcgYnVubnkvQmlnIEJ1Y2sgQnVubnkgNzIwcC5tcDQiLCJpYXQiOjE2NTcwODEyOTEsImV4cCI6MTk3MjQ0MTI5MX0.4IqvxIklJbfiBuibpBVWD7Q7BmDb79VOYgZmV4LsxEQ&t=2022-07-06T04%3A21%3A29.199Z"
+				}
+			],
+			"comments": [{
+					"name": "Adeleye Andress",
+					"pic": "https://picsum.photos/300/30",
+					"message": "I love to code"
+				},
+				{
+					"name": "Biggi Man",
+					"pic": "https://picsum.photos/300/30",
+					"message": "Very cool"
+				},
+				{
+					"name": "Biggi Man",
+					"pic": "https://picsum.photos/300/30",
+					"message": "Very cool"
+				},
+				{
+					"name": "Biggi Man",
+					"pic": "https://picsum.photos/300/30",
+					"message": "Very cool"
+				}
+			]
+		}
+	]
 }
